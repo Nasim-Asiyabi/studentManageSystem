@@ -1,8 +1,3 @@
-بسیار خوب، اینجا فقط خود متن README برای کپی کردن است:
-
----
-
-```markdown
 # 📚 Student Management System
 
 > A comprehensive command-line Student Management System built with Python for educational institutions to manage student records, courses, enrollments, and academic performance.
@@ -205,7 +200,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 **Author:** Nasim Asiyabi
-**GitHub:** [@yourusername](https://github.com/NasimAsiyabi)  
+**GitHub:** [NasimASiyabi](https://github.com/Nasim-Asiyabi)  
 
 
 ## 🙏 Acknowledgments
